@@ -23,7 +23,7 @@ To make a .py file execute on Windows startup, you must follow these steps:
 
 this method only works if you have administrator permissions on your PC. 
 
-# NOTE:
+## NOTE:
 In the code there is a variable called topic in this you choose the topic or type of image that you want to be placed, you just have to change the topic and then save the file.
 
 ## Example 
