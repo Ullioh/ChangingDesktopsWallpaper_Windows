@@ -1,9 +1,9 @@
 # ChangingDesktopsWallpaper_Windows
 A little program to change the wallpaper in Windows automatically, every time you reboot or startup the PC
 
-The objective of this programs is can change the desktop wallpaper in windows every time tha starup the pc, this .py archive was created with Python and   Unsplash API (obviously) 
-This program was built using [Python]([https://pages.github.com/](https://www.python.org/))
-to run the .py need installed python and Requests module.
+The target of this programs is change the desktop wallpaper in windows every time tha starup the pc, this .py archive was created with Python and Unsplash API (obviously) 
+This program was built using [Python]([https://pages.github.com/](https://www.python.org/)).
+To run the .py you need to have python installed and Requests module.
 
 ###  Install Requests with 
 ```
