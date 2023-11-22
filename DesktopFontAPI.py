@@ -24,7 +24,7 @@ image_data = response.content
 # Descargar imagen desde URL
 # response = requests.get(image_url)
 # image_data = response.content
-
+# Prueba de subir un GIT
 # Guardar la imagen en el disco
 image_path = "D:\Imagenes\Pictures\imagen.jpg"
 with open(image_path, "wb") as f:
