@@ -7,8 +7,8 @@ def set_wallpaper(image_path):
 
 
 #Clave Acceso de Unsplash
-access_key = "FVWY9T6d-Xokif7EDM_g41tcBA-RfKG6EutVubL3YX0"
-topic = "gundam" # to change the topic
+access_key = "Colocar su Acces Kay de Unsplash"
+topic = "Colocar su topico" # to change the topic
 url = f"https://api.unsplash.com/photos/random?client_id={access_key}&query={topic}"
 response = requests.get(url)
 data = response.json()
